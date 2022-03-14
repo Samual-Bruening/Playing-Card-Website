@@ -1,0 +1,55 @@
+html {
+    padding: 0px;
+    border: dashed;
+    margin: 0px 0px 0px 0px;
+}
+body {
+    padding: 15px;
+    border: dashed;
+    margin: 0px 0px 0px 0px;
+}
+ul {
+    position: fixed;
+    float: left;
+    padding: 10px 10px;
+    border: dashed;
+    margin: 250px 10px 550px;
+}
+li{
+    padding: 0px;
+    border: solid;
+    border-width: 1px;
+    margin: 0px 0px 0px 0px;
+}
+img {
+    height: 200px;
+    width: 200px;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+#imageright {
+    width: 20%;
+    position: inherit;
+    float: right;
+    padding: 0px;
+    border: none;
+    margin: 0px 0px 0px 0px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: left;
+    padding: 0%;
+    border: dashed;
+    margin: 25px 25% 10px;
+}
+p {
+    text-align: center;
+    padding: 1% 5%;
+    border: dashed;
+    margin: 0% 25% 0% 25%;
+}
