@@ -9,13 +9,12 @@ body {
     margin: 0px 0px 0px 0px;
 }
 ul {
-    position: fixed;
     float: left;
     padding: 10px 10px;
     border: dashed;
     margin: 250px 10px 550px;
 }
-li{
+li {
     padding: 0px;
     border: solid;
     border-width: 1px;
@@ -29,8 +28,8 @@ img {
 }
 #imageright {
     width: 20%;
-    position: inherit;
     float: right;
+    position: inherit;
     padding: 0px;
     border: none;
     margin: 0px 0px 0px 0px;
